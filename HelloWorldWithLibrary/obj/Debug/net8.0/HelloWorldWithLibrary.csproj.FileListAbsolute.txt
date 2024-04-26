@@ -1,0 +1,14 @@
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/bin/Debug/net8.0/HelloWorldWithLibrary
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/bin/Debug/net8.0/HelloWorldWithLibrary.deps.json
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/bin/Debug/net8.0/HelloWorldWithLibrary.runtimeconfig.json
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/bin/Debug/net8.0/HelloWorldWithLibrary.dll
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/bin/Debug/net8.0/HelloWorldWithLibrary.pdb
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/obj/Debug/net8.0/HelloWorldWithLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/obj/Debug/net8.0/HelloWorldWithLibrary.AssemblyInfoInputs.cache
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/obj/Debug/net8.0/HelloWorldWithLibrary.AssemblyInfo.cs
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/obj/Debug/net8.0/HelloWorldWithLibrary.csproj.CoreCompileInputs.cache
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/obj/Debug/net8.0/HelloWorldWithLibrary.dll
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/obj/Debug/net8.0/refint/HelloWorldWithLibrary.dll
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/obj/Debug/net8.0/HelloWorldWithLibrary.pdb
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/obj/Debug/net8.0/HelloWorldWithLibrary.genruntimeconfig.cache
+/home/oem/RiderProjects/ConsoleApp1/HelloWorldWithLibrary/obj/Debug/net8.0/ref/HelloWorldWithLibrary.dll
